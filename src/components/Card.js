@@ -13,7 +13,7 @@ export default function Card(props){
           <p className="card--map"><u>View on Google Maps</u></p>
         </div>
             <h2>{props.title}</h2>
-            <h5>{props.startDate} - {props.endDate}</h5>
+            <h5>{props.startDate}-{props.endDate}</h5>
             
             <p>{props.description}</p>
             </section>
