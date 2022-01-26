@@ -2,4 +2,4 @@
 
 A simple travel journal project. 
 
-![Screenshot]()
+![Screenshot](screenshot.png)
